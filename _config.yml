@@ -24,10 +24,10 @@ repository               : "elyserojas/elyserojas.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "elyserojas"
+  name             : "Elyse Rojas"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Virginia Tech"
+  bio              : "Hello! My name is Elyse Rojas, and I am a Computer Engineering major at Virginia tech. I hope to concentrate in chip scale integration as chips are of great interest to me. Some of my other interests include playing music, hiking, and playing video games. My biggest goal in life is to find inner peace."
+  location         : "Blacksburg, VA"
   employer         : "Virginia Tech"
   uri              : # URL
   email            : "elyserojas@vt.edu" 
